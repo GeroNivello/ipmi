@@ -1,3 +1,4 @@
+//Geronimo Nivello Comision 1
 PImage imagen1;
 PImage imagen2;
 int T=255;
